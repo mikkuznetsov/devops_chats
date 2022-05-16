@@ -10,6 +10,7 @@
 - [Mobile Jobs](https://t.me/mobile_jobs)
 - [QA Jobs](https://t.me/qa_jobs)
 - [VueJS Jobs](https://t.me/vuejs_jobs)
+- [CyberJobsRussia](https://t.me/CyberJobsRussia)
 
 ## Feeds about job opportunities
 
@@ -23,6 +24,8 @@
 - [UIUX Jobs Feed](http://t.me/uiux_jobs_feed)
 - [Agile Jobs Feed](http://t.me/agile_jobs_feed)
 - [VueJS Jobs Feed](https://t.me/vuejs_jobs_feed)
+- [AppSec & DevSecOps Jobs](https://t.me/appsec_job)
+- [RuSecJobs Channel](https://t.me/RuSecJobs)
 
 ## Technical chats
 
@@ -54,6 +57,7 @@
 - [Visual Studio Code](https://t.me/vscode_ru)
 - [UI/UX](https://t.me/uiux_ru)
 - [DevOps](https://t.me/devops_ru)
+- [CatOps](https://t.me/catops_chat)
 - [Projects](https://t.me/projects_ru)
 - [Agile](https://t.me/agile_ru)
 - [Android Developers](https://t.me/android_ru)
@@ -74,6 +78,12 @@
 - [PWA — русскоязычное сообщество](https://t.me/pwa_ru)
 - [SRE — русскоговорящее сообщество](https://t.me/sre_ru)
 - [Go-go!](https://t.me/gogolang)
+- [DevSecOps Chat](https://t.me/sec_devops_chat)
+
+### Flood chats
+
+- [CyberOff](https://t.me/cyberoffru)
 
 ## Unban chat for *ALL* chats
+
 - [Unban – в русскоговорящих сообществах](https://t.me/unban_ru)
